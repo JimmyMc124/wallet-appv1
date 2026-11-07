@@ -20,22 +20,8 @@ This is a prototype. Please do not use it with real card details yet.
 - The app cannot make payments. The tap-to-pay screen detects NFC only; real contactless payments need a native app approved by banks and card networks.
 - Camera text scanning works only in some browsers and is not available inside the app yet.
 
-## Run it
-
-Open `www/index.html` in a browser, or build the mobile app with Capacitor:
-
-```
-npm install
-npx cap add android
-npm run icons
-npx cap sync android
-npx cap open android
-```
-
-A GitHub Actions workflow in `.github/workflows` also builds an Android APK for you.
-
 ## Licence
 
-Copyright (c) 2026 <your name>. All rights reserved.
+Copyright (c) 2026 Jimmy. All rights reserved.
 
 The source is public for viewing only. You may not use, copy, modify, distribute or sell this code without written permission.
