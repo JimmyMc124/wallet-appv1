@@ -51,5 +51,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: wallet-debug-apk
+          name: wallet
           path: android/app/build/outputs/apk/debug/*.apk
