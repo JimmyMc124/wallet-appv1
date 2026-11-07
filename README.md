@@ -2,7 +2,7 @@
 
 A private wallet app for the cards you carry: credit, debit, ID, licence, insurance and membership cards. Everything stays on your device. There is no account and no server.
 
-![Wallet banner](wallet-banner-1024x500.png)
+![Wallet banner](wallet-banner-large.png)
 
 ## Features
 
